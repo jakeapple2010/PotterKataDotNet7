@@ -2,7 +2,7 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookStoreCart", "BookStoreCart\BookStoreCart.csproj", "{6F63A2FF-1A09-4E88-9A9D-096E4C60181C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CartTests", "CartTests\CartTests.csproj", "{06029B02-8089-45AE-BC05-BC2C7AD8DEB1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookStoreCartTests", "BookStoreCartTests\BookStoreCartTests.csproj", "{06029B02-8089-45AE-BC05-BC2C7AD8DEB1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

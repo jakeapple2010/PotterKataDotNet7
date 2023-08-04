@@ -1,27 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jakeapple/Documents/code/PotterKataDotNet7/PotterKataDotNet7/BookStoreCart/BookStoreCart.csproj": {}
+    "C:\\Users\\jakeapple\\code\\PotterKataDotNet7\\PotterKataDotNet7\\BookStoreCart\\BookStoreCart.csproj": {}
   },
   "projects": {
-    "/Users/jakeapple/Documents/code/PotterKataDotNet7/PotterKataDotNet7/BookStoreCart/BookStoreCart.csproj": {
+    "C:\\Users\\jakeapple\\code\\PotterKataDotNet7\\PotterKataDotNet7\\BookStoreCart\\BookStoreCart.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jakeapple/Documents/code/PotterKataDotNet7/PotterKataDotNet7/BookStoreCart/BookStoreCart.csproj",
+        "projectUniqueName": "C:\\Users\\jakeapple\\code\\PotterKataDotNet7\\PotterKataDotNet7\\BookStoreCart\\BookStoreCart.csproj",
         "projectName": "BookStoreCart",
-        "projectPath": "/Users/jakeapple/Documents/code/PotterKataDotNet7/PotterKataDotNet7/BookStoreCart/BookStoreCart.csproj",
-        "packagesPath": "/Users/jakeapple/.nuget/packages/",
-        "outputPath": "/Users/jakeapple/Documents/code/PotterKataDotNet7/PotterKataDotNet7/BookStoreCart/obj/",
+        "projectPath": "C:\\Users\\jakeapple\\code\\PotterKataDotNet7\\PotterKataDotNet7\\BookStoreCart\\BookStoreCart.csproj",
+        "packagesPath": "C:\\Users\\jakeapple\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jakeapple\\code\\PotterKataDotNet7\\PotterKataDotNet7\\BookStoreCart\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/jakeapple/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\jakeapple\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {},
-          "https://pkgs.dev.azure.com/packsize/_packaging/MonolithPackages/nuget/v3/index.json": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
@@ -54,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet/7.0.100/libexec/sdk/7.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }

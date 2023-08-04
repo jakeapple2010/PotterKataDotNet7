@@ -10,3 +10,15 @@
 /Users/jakeapple/Documents/code/PotterKataDotNet7/PotterKataDotNet7/BookStoreCart/obj/Debug/net7.0/refint/BookStoreCart.dll
 /Users/jakeapple/Documents/code/PotterKataDotNet7/PotterKataDotNet7/BookStoreCart/obj/Debug/net7.0/BookStoreCart.pdb
 /Users/jakeapple/Documents/code/PotterKataDotNet7/PotterKataDotNet7/BookStoreCart/obj/Debug/net7.0/ref/BookStoreCart.dll
+C:\Users\jakeapple\code\PotterKataDotNet7\PotterKataDotNet7\BookStoreCart\bin\Debug\net7.0\BookStoreCart.deps.json
+C:\Users\jakeapple\code\PotterKataDotNet7\PotterKataDotNet7\BookStoreCart\bin\Debug\net7.0\BookStoreCart.dll
+C:\Users\jakeapple\code\PotterKataDotNet7\PotterKataDotNet7\BookStoreCart\bin\Debug\net7.0\BookStoreCart.pdb
+C:\Users\jakeapple\code\PotterKataDotNet7\PotterKataDotNet7\BookStoreCart\obj\Debug\net7.0\BookStoreCart.csproj.AssemblyReference.cache
+C:\Users\jakeapple\code\PotterKataDotNet7\PotterKataDotNet7\BookStoreCart\obj\Debug\net7.0\BookStoreCart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakeapple\code\PotterKataDotNet7\PotterKataDotNet7\BookStoreCart\obj\Debug\net7.0\BookStoreCart.AssemblyInfoInputs.cache
+C:\Users\jakeapple\code\PotterKataDotNet7\PotterKataDotNet7\BookStoreCart\obj\Debug\net7.0\BookStoreCart.AssemblyInfo.cs
+C:\Users\jakeapple\code\PotterKataDotNet7\PotterKataDotNet7\BookStoreCart\obj\Debug\net7.0\BookStoreCart.csproj.CoreCompileInputs.cache
+C:\Users\jakeapple\code\PotterKataDotNet7\PotterKataDotNet7\BookStoreCart\obj\Debug\net7.0\BookStoreCart.dll
+C:\Users\jakeapple\code\PotterKataDotNet7\PotterKataDotNet7\BookStoreCart\obj\Debug\net7.0\refint\BookStoreCart.dll
+C:\Users\jakeapple\code\PotterKataDotNet7\PotterKataDotNet7\BookStoreCart\obj\Debug\net7.0\BookStoreCart.pdb
+C:\Users\jakeapple\code\PotterKataDotNet7\PotterKataDotNet7\BookStoreCart\obj\Debug\net7.0\ref\BookStoreCart.dll
